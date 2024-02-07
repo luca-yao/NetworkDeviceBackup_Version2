@@ -12,7 +12,7 @@
 #### ~~大概吧~~ ◝(　ﾟ∀ ﾟ )◟
 
 **GitHub: https://github.com/luca-yao/NetworkDeviceBackup_Version2**
-**GitHub: https://github.com/luca-yao/NetworkDeviceBackup**
+<BR>**GitHub: https://github.com/luca-yao/NetworkDeviceBackup**
 
 一如既往，本程式主要分成三大設定檔
 - NetworkDeviceBackup.py
