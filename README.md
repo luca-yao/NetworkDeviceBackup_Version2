@@ -1,10 +1,3 @@
----
-title: Python 自動化備份 Part-2
-date: 2024-02-07 00:44:39
-tags: Python
-categories: Coding
-photos: covers/20240207.png
----
 # 前言
 之前跟大家分享過 Python 寫的自動化備份Fortigate和Cisco Switch的語法
 <BR>雖然可能不見得大家會用的到，但或許有天你也會想用也說不定呢 (｢･ω･)｢
