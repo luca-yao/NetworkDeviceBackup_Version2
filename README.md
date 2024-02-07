@@ -11,6 +11,7 @@
 所以[**照理說**]只要調整需要的部分照理說就可以正常運作了
 #### ~~大概吧~~ ◝(　ﾟ∀ ﾟ )◟
 
+**GitHub: https://github.com/luca-yao/NetworkDeviceBackup_Version2**
 **GitHub: https://github.com/luca-yao/NetworkDeviceBackup**
 
 一如既往，本程式主要分成三大設定檔
@@ -108,7 +109,7 @@ if __name__ == "__main__":
 <BR>一方面也是好控管，所以選擇了透過Jenkins協助進行
 
 ## 成品如下圖：
-![Imgur](https://imgur.com/4D6Rmtj)
+![Imgur](https://imgur.com/4D6Rmtj.png)
 
 # 後記
 ---
