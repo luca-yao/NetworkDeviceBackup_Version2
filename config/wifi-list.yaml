@@ -1,0 +1,12 @@
+##################################### Aruba Controller #########################################
+
+- hostname: Aruba-7030-Controller
+  device_type: aruba_os
+  host: 10.10.10.1
+  directory: /home/backup/A/
+
+- hostname: Aruba-Mobility-Master
+  device_type: aruba_os
+  host: 10.10.10.3
+  directory: /home/backup/A/
+

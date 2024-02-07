@@ -1,0 +1,32 @@
+###################################### Fortigate ################################################
+
+- hostname: Forti-60F
+  device_type: fortinet
+  host: 1.1.1.1
+  directory: 
+    - /home/backup/A/
+    - /home/backup/B/
+
+- hostname: Forti-60F
+  device_type: fortinet
+  host: 1.1.1.2
+  directory: 
+    - /home/backup/A/
+    - /home/backup/B/
+
+- hostname: Forti-200E
+  device_type: fortinet
+  host: 1.1.1.10
+  directory: 
+    - /home/backup/A/
+    - /home/backup/B/
+
+##################################    Palo Alto   ################################################
+
+- hostname: Palo-Alto-820
+  device_type: paloalto_panos
+  host: 1.1.1.5
+  directory: 
+    -  /home/backup/A/
+    -  /home/backup/B/
+
